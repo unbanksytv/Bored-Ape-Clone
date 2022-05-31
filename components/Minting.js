@@ -10,7 +10,7 @@ const Minting = () => {
   const address = useAddress();
   const connectWithMetamask = useMetamask();
   const disconnectWallet = useDisconnect();
-  const editionDrop = useEditionDrop("0x079d7aC8bF1D41609513ED47959027F6feC9cc41")
+  const editionDrop = useEditionDrop("0xDfcD54ec6FF420e243Bba781177209600fBF6867")
 
   const mint = async () => {
     if(editionDrop && address) {
@@ -23,7 +23,7 @@ const Minting = () => {
   }
 
   const viewOpenSea = () => {
-    const url = "https://testnets.opensea.io/collection/bored-ape-clone-v2-v2"
+    const url = "https://testnets.opensea.io/collection/"
     window.open(url, "_blank");
   }
 
