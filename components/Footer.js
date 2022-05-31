@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <Container>
       <FooterContainer>
-        The NFT doubles as your membership<br /> Join the GVO Club. Made by LiveTheLifeTV
+        Dimitri Daniloff and LiveTheLifeTV are sending you Good Vibes OHMly. Claim your free NFT.
       </FooterContainer>
     </Container>
   )
