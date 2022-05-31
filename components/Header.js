@@ -1,13 +1,13 @@
 import tw from "tailwind-styled-components";
 import Image from "next/image";
-import logo from "../assets/logo.webp";
+import logo from "../assets/LTL_V2-02.png";
 
 const Header = () => {
   return (
     <Container>
       <HeaderContainer>
         <Image
-          width={300}
+          width={78}
           height={78}
           src={logo}
           alt="Logo"

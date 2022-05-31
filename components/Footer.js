@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <Container>
       <FooterContainer>
-        A limited NFT collection where the token itself doubles as your membership to a swamp<br /> club for apes. The club is open! Ape in with us.
+        The NFT doubles as your membership<br /> Join the GVO Club. Made by LiveTheLifeTV
       </FooterContainer>
     </Container>
   )

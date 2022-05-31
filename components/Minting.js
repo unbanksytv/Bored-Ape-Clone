@@ -47,7 +47,7 @@ const Minting = () => {
     <Container>
       <Mint>
         <TitleContainer>
-          <Title>Welcome to<br /> the Bored Ape<br /> Yacht Club</Title>
+          <Title>Welcome to<br /> the Good Vibes<br /> The Good Life</Title>
           <Count>
             {address && totalSupply}
           </Count>

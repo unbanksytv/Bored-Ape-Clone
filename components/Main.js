@@ -5,7 +5,7 @@ const Main = () => {
   return (
     <Container>
       <VideoContainer>
-        <Video src="./bg-video.mp4" muted={true} autoPlay={true} loop={true} />
+        <Video src="./GVO_teaser.mp4" muted={true} autoPlay={true} loop={true} />
       </VideoContainer>
       <Minting />
     </Container>
