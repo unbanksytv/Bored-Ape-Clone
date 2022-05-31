@@ -23,7 +23,7 @@ const Minting = () => {
   }
 
   const viewOpenSea = () => {
-    const url = "https://testnets.opensea.io/collection/"
+    const url = "https://testnets.opensea.io/collection/lets-gooo"
     window.open(url, "_blank");
   }
 
